@@ -27,6 +27,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/gridlex/dist/gridlex.css",
               "src/styles.less"
             ],
             "scripts": []
